@@ -26,13 +26,6 @@ Be the first player to align **3 dots in a row** (horizontally, vertically, or d
 
 ---
 
-## 🎮 How to Play
-* Players take turns entering coordinates into the console to place their dots.
-* Remember to follow the adjacency rule!
-* The game will automatically detect and announce the winner when a 3-in-a-row is achieved.
-
----
-
 ## 📸 Screenshots
 | Start |
 |:---:|
