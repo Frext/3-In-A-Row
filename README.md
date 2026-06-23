@@ -1,6 +1,7 @@
 # 3-In-A-Row
 
 [![Language](https://img.shields.io/badge/Language-Kotlin-purple.svg?style=flat&logo=kotlin)](https://kotlinlang.org/)
+[![Type](https://img.shields.io/badge/Type-Console%20App-orange.svg?style=flat&logo=gnutelephony)](https://en.wikipedia.org/wiki/Console_application)
 
 A minimalist, turn-based console game written in **Kotlin**. 
 
